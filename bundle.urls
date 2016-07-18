@@ -1,0 +1,39 @@
+# camunda OSGi bundles, see https://github.com/camunda/camunda-bpm-platform-osgi/blob/master/camunda-bpm-karaf-feature/src/main/resources/features.xml
+
+
+https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar
+https://repo1.maven.org/maven2/org/slf4j/slf4j-jdk14/1.7.21/slf4j-jdk14-1.7.21.jar
+
+# camunda-models
+https://repo1.maven.org/maven2/org/camunda/bpm/model/camunda-xml-model/7.5.0/camunda-xml-model-7.5.0.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/model/camunda-bpmn-model/7.5.0/camunda-bpmn-model-7.5.0.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/model/camunda-cmmn-model/7.5.0/camunda-cmmn-model-7.5.0.jar
+
+# camunda-commons
+https://repo1.maven.org/maven2/org/camunda/commons/camunda-commons-logging/1.3.0/camunda-commons-logging-1.3.0.jar
+https://repo1.maven.org/maven2/org/camunda/commons/camunda-commons-utils/1.3.0/camunda-commons-utils-1.3.0.jar
+https://repo1.maven.org/maven2/org/camunda/commons/camunda-commons-typed-values/1.3.0/camunda-commons-typed-values-1.3.0.jar
+
+# camunda-dmn
+https://repo1.maven.org/maven2/de/odysseus/juel/juel-api/2.2.7/juel-api-2.2.7.jar
+https://repo1.maven.org/maven2/de/odysseus/juel/juel-impl/2.2.7/juel-impl-2.2.7.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/dmn/camunda-engine-feel-api/7.5.0/camunda-engine-feel-api-7.5.0.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/dmn/camunda-engine-feel-juel/7.5.0/camunda-engine-feel-juel-7.5.0.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/model/camunda-dmn-model/7.5.0/camunda-dmn-model-7.5.0.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/dmn/camunda-engine-dmn/7.5.0/camunda-engine-dmn-7.5.0.jar
+
+# camunda-core
+http://repository.springsource.com/ivy/bundles/external/javax.activation/com.springsource.javax.activation/1.1.1/com.springsource.javax.activation-1.1.1.jar
+http://repository.springsource.com/ivy/bundles/external/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/com.springsource.org.apache.commons.logging-1.1.1.jar
+https://repo1.maven.org/maven2/joda-time/joda-time/2.1/joda-time-2.1.jar
+https://repo1.maven.org/maven2/com/h2database/h2/1.3.168/h2-1.3.168.jar
+https://repo1.maven.org/maven2/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar
+https://repo1.maven.org/maven2/com/fasterxml/uuid/java-uuid-generator/3.1.2/java-uuid-generator-3.1.2.jar
+https://repo1.maven.org/maven2/org/apache/servicemix/bundles/org.apache.servicemix.bundles.drools/5.5.0.Final_2/org.apache.servicemix.bundles.drools-5.5.0.Final_2.jar
+https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar
+https://repo1.maven.org/maven2/org/jvnet/staxex/stax-ex/1.7.5/stax-ex-1.7.5.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/camunda-engine/7.5.0/camunda-engine-7.5.0.jar
+https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.dependencymanager/3.2.0/org.apache.felix.dependencymanager-3.2.0.jar
+https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.metatype/1.1.2/org.apache.felix.metatype-1.1.2.jar
+https://repo1.maven.org/maven2/org/camunda/bpm/extension/osgi/camunda-bpm-osgi/2.0.0/camunda-bpm-osgi-2.0.0.jar
+
